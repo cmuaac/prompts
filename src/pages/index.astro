@@ -1,0 +1,11 @@
+---
+import Page from '../templates/page.astro';
+import FilterList from '../components/filterable_list/main.svelte';
+import '../sass/index.scss';
+---
+
+<Page description="Prompt searching/filtering tool for the CMU Artist Alley Club Art Buddy Program">
+    <h1 slot="header">Prompt Search</h1>
+    <FilterList client:load />
+    <em slot="footer">Thank you for visiting!</em>
+</Page>

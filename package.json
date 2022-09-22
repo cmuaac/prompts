@@ -1,0 +1,32 @@
+{
+  "name": "aac-prompts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro start",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cmuaac/aac-prompts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "astro": "^1.2.6",
+    "astro-compress": "^0.0.13",
+    "fuzzy": "^0.1.3",
+    "svelte": "^3.49.0"
+  },
+  "devDependencies": {
+    "@astrojs/image": "^0.1.2",
+    "@astrojs/mdx": "^0.11.1",
+    "@astrojs/sitemap": "^0.2.6",
+    "@astrojs/svelte": "^0.4.0",
+    "sass": "^1.53.0"
+  }
+}
