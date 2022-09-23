@@ -9,7 +9,10 @@ export interface Props {
 
 const { title, override_title, description } = Astro.props as Props;
 
-const full_title = override_title ? override_title : (title ? `prompts.cmuaac.com - ${title}` : "prompts.cmuaac.com");
+const site_base = Astro.site.hostname;
+
+const full_title = override_title ? override_title : (title ? `${site_base} - ${title}` : site_base);
+
 ---
 <html lang="en-US">
   <head>
@@ -19,7 +22,7 @@ const full_title = override_title ? override_title : (title ? `prompts.cmuaac.co
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <meta name="description" content={description} />
       <title>{full_title}</title>
-      <link rel="icon" type="image/png" href="/favicon.png" />
+      <link rel="icon" type="image/png" href="/prompts/favicon.png" />
     </slot>
   </head>
   <body>
