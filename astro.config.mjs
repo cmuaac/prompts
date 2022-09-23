@@ -11,5 +11,6 @@ export default defineConfig({
     integrations: true
   },
   integrations: [compress(), image(), svelte(), sitemap(), mdx()],
-  site: 'https://prompts.cmuaac.org'
+  site: 'https://cmuaac.github.io',
+  base: '/prompts',
 });
