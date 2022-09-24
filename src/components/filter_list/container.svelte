@@ -5,6 +5,7 @@
 
   export let items;
   export let filter_text;
+  export let filter_tags;
 
   $: filtered_items = fuzzy.filter(
     filter_text,
@@ -17,7 +18,15 @@
     } else {
       return item;
     }
-  })
+  }).map(item => {
+      // or-based filtering based on tags, and sorting based on relevance
+      let intersection = item.tags.filter(tag => filter_tags.includes(tag));
+      return [item, intersection.length];
+    }
+  ).sort((i1, i2) => i2[1] - i1[1]).filter(i => {
+      return (filter_tags.length == 0) ? true : i[1] > 0
+    }
+  ).map(i => i[0]);
 </script>
 
 <LayoutGrid>

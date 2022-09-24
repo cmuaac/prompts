@@ -10,12 +10,13 @@
   };
 
   export let filter_text;
+  export let filter_tags;
 </script>
 
 {#await loadItems()}
   <p>Loading activities...</p>
 {:then items}
-  <Container {items} {filter_text} />
+  <Container {items} {filter_text} {filter_tags}/>
 {:catch error}
   <p style="color: red">{error.message}</p>
 {/await}
