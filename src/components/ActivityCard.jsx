@@ -1,13 +1,10 @@
-import * as React from 'react';
-import Box from '@mui/material/Box';
-import Card from '@mui/material/Card';
+import Card from '@mui/material/Card/Card';
 import { CardActionArea } from '@mui/material';
-import CardActions from '@mui/material/CardActions';
-import CardContent from '@mui/material/CardContent';
-import Button from '@mui/material/Button';
-import Typography from '@mui/material/Typography';
-import Stack from '@mui/material/Stack';
-import Chip from '@mui/material/Chip';
+import CardActions from '@mui/material/CardActions/CardActions';
+import CardContent from '@mui/material/CardContent/CardContent';
+import Typography from '@mui/material/Typography/Typography';
+import Stack from '@mui/material/Stack/Stack';
+import Chip from '@mui/material/Chip/Chip';
 
 function ActivityCard(props) {
   return (

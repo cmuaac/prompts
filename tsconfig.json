@@ -13,6 +13,9 @@
       // Add type definitions for our Astro runtime.
       "types": ["astro/client"],
       // Tell TypeScript where your build output is
-      "outDir": "./dist"
+      "outDir": "./dist",
+      // Use React for jsx
+      "jsx": "react-jsx",
+      "jsxImportSource": "react"
     }
   }
