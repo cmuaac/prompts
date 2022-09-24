@@ -1,5 +1,6 @@
 ---
 import '../sass/main.scss';
+import '../theme/smui.css';
 
 export interface Props {
   title?: string;
@@ -23,6 +24,11 @@ const full_title = override_title ? override_title : (title ? `${site_base} - ${
       <meta name="description" content={description} />
       <title>{full_title}</title>
       <link rel="icon" type="image/png" href="/prompts/favicon.png" />
+      <!-- Material Icons >
+      <link
+        rel="stylesheet"
+        href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      /-->
     </slot>
   </head>
   <body>

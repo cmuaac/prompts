@@ -1,10 +1,6 @@
-@import 'colors';
-
 body {
-  width: 35em;
+  width: 90%;
   margin: 0 auto;
-  background-color: $tan-bg;
-  color: $black-fg;
   font-family:
     system-ui,
     -apple-system,
@@ -39,7 +35,6 @@ ul, ol {
   
 @media (max-width: 40em) {
   body {
-    width: 90%;
     font-size: 1.6em;
   }
 }
