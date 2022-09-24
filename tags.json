@@ -1,0 +1,34 @@
+[
+  {
+    'name': 'Figure Drawing',
+    'category': 'Art'
+  },
+  {
+    'name': 'Portrait',
+    'category': 'Art'
+  },
+  {
+    'name': 'Observational',
+    'category': 'Art'
+  },
+  {
+    'name': 'Level0',
+    'category': 'Level'
+  },
+  {
+    'name': 'Level1',
+    'category': 'Level'
+  },
+  {
+    'name': 'Level2',
+    'category': 'Level'
+  },
+  {
+    'name': 'Individual',
+    'category': 'Misc'
+  },
+  {
+    'name': 'Group',
+    'category': 'Misc'
+  },
+]
