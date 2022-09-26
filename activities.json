@@ -2,61 +2,216 @@
   {
     "name": "Keys to Drawing Project",
     "desc": "TODO",
-    "tags": ["Observational", "Level0"]
+    "tags": ["Observational", "Level0", "Week1"]
   },
   {
     "name": "Shoe/Bag Line Drawing",
     "desc": "TODO",
-    "tags": ["Observational", "Level1"]
+    "tags": ["Observational", "Level1", "Week1"]
   },
   {
     "name": "Still Life",
     "desc": "TODO",
-    "tags": ["Observational", "Level2"]
+    "tags": ["Observational", "Level2", "Week1"]
   },
   {
     "name": "Blind Contour",
     "desc": "TODO",
-    "tags": ["Observational", "Level0"]
+    "tags": ["Observational", "Level0", "Week2"]
   },
   {
     "name": "Upside-Down Picasso Stravinsky",
     "desc": "TODO",
-    "tags": ["Observational", "Level1"]
+    "tags": ["Observational", "Level1", "Week2"]
   },
   {
     "name": "Hand Holding An Object",
     "desc": "TODO",
-    "tags": ["Observational", "Level2"]
+    "tags": ["Observational", "Level2", "Week2"]
+  },
+  {
+    "name": "Negative Space Exercise",
+    "desc": "TODO",
+    "tags": ["Observational", "Level0", "Week3"]
+  },
+  {
+    "name": "Negative Space + Perspective",
+    "desc": "TODO",
+    "tags": ["Observational", "Level1", "Week3"]
+  },
+  {
+    "name": "Copy A Master",
+    "desc": "TODO",
+    "tags": ["Observational", "Level2", "Week3", "Study"]
+  },
+  {
+    "name": "1-object Still Life",
+    "desc": "TODO",
+    "tags": ["Observational", "Level0", "Week4"]
+  },
+  {
+    "name": "Self-Portrait",
+    "desc": "TODO",
+    "tags": ["Observational", "Level2", "Week4"]
   },
   {
     "name": "Proportion Copies",
     "desc": "TODO",
-    "tags": ["Figure Drawing", "Level0"]
+    "tags": ["Figure Drawing", "Level0", "Week1"]
   },
   {
     "name": "Gesture Drawing",
     "desc": "TODO",
-    "tags": ["Figure Drawing", "Level1"]
+    "tags": ["Figure Drawing", "Level1", "Week1"]
   },
   {
     "name": "Croquis Drawing",
     "desc": "TODO",
-    "tags": ["Figure Drawing", "Level2"]
+    "tags": ["Observational", "Figure Drawing", "Level1", "Week4", "Level2", "Week1"]
   },
   {
     "name": "Mannequins",
     "desc": "TODO",
-    "tags": ["Figure Drawing", "Level0"]
+    "tags": ["Figure Drawing", "Level0", "Week2"]
   },
   {
     "name": "Boxes of Head-Torso-Hips + Spine",
     "desc": "TODO",
-    "tags": ["Figure Drawing", "Level1"]
+    "tags": ["Figure Drawing", "Level1", "Week2"]
   },
   {
     "name": "Pick A Body Part To Study",
     "desc": "TODO",
-    "tags": ["Figure Drawing", "Level2"]
+    "tags": ["Figure Drawing", "Level2", "Week3", "Study"]
+  },
+  {
+    "name": "3D Forms of Mannequins",
+    "desc": "TODO",
+    "tags": ["Figure Drawing", "Level0", "Week3"]
+  },
+  {
+    "name": "Photo Trace/Copy",
+    "desc": "TODO",
+    "tags": ["Figure Drawing", "Level0", "Week4", "Level1", "Week3", "Study"]
+  },
+  {
+    "name": "Draw Figure From Different Perspective Than Shown",
+    "desc": "TODO",
+    "tags": ["Figure Drawing", "Level2", "Week4"]
+  },
+  {
+    "name": "Line Exercises",
+    "desc": "TODO",
+    "tags": ["Perspective and Form", "Level0", "Week1"]
+  },
+  {
+    "name": "Organic Perspective Exercise",
+    "desc": "TODO",
+    "tags": ["Perspective and Form", "Level1", "Week1"]
+  },
+  {
+    "name": "Rotated Boxes Exercise",
+    "desc": "TODO",
+    "tags": ["Perspective and Form", "Level2", "Week1"]
+  },
+  {
+    "name": "Ellipse Exercises",
+    "desc": "TODO",
+    "tags": ["Perspective and Form", "Level0", "Week2"]
+  },
+  {
+    "name": "2- and 3-Point Perspective",
+    "desc": "TODO",
+    "tags": ["Perspective and Form", "Level1", "Week2"]
+  },
+  {
+    "name": "Divided and Rotating Planes in 2-Point Perspective",
+    "desc": "TODO",
+    "tags": ["Perspective and Form", "Level2", "Week2"]
+  },
+  {
+    "name": "1-Point Perspective: Vanishing Points and Horizon Lines",
+    "desc": "TODO",
+    "tags": ["Perspective and Form", "Level0", "Week3"]
+  },
+  {
+    "name": "Cylinders, Spheres, and Cones",
+    "desc": "TODO",
+    "tags": ["Perspective and Form", "Level1", "Week3"]
+  },
+  {
+    "name": "Shape Rotations, Intersections, Dissections",
+    "desc": "TODO",
+    "tags": ["Perspective and Form", "Level2", "Week3"]
+  },
+  {
+    "name": "2-Point Perspective, Rotation by Moving Vanishing Point",
+    "desc": "TODO",
+    "tags": ["Perspective and Form", "Level0", "Week4"]
+  },
+  {
+    "name": "Draw A Car Or Something",
+    "desc": "TODO",
+    "tags": ["Perspective and Form", "Level1", "Week4"]
+  },
+  {
+    "name": "Robertson Perspective/Sculpting Techniques",
+    "desc": "TODO",
+    "tags": ["Perspective and Form", "Level2", "Week4"]
+  },
+  {
+    "name": "Art Trade With Time Limit",
+    "desc": "TODO",
+    "tags": ["Chill"]
+  },
+  {
+    "name": "\"Art Telephone\" of Sketch -> Lineart -> Colors -> Render Passes",
+    "desc": "TODO",
+    "tags": ["Chill"]
+  },
+  {
+    "name": "Copy Each Others' Styles",
+    "desc": "TODO",
+    "tags": ["Chill"]
+  },
+  {
+    "name": "Screenshot Redraw",
+    "desc": "TODO",
+    "tags": ["Chill"]
+  },
+  {
+    "name": "Draw The Same Character From Memory",
+    "desc": "TODO",
+    "tags": ["Chill"]
+  },
+  {
+    "name": "Draw Something From A Shindanmaker",
+    "desc": "TODO",
+    "tags": ["Chill"]
+  },
+  {
+    "name": "Draw Something From A Random Picrew",
+    "desc": "TODO",
+    "tags": ["Chill"]
+  },
+  {
+    "name": "Compositional Values Study",
+    "desc": "TODO",
+    "tags": ["Study"]
+  },
+  {
+    "name": "Same Scene At Different Times Of Day",
+    "desc": "TODO",
+    "tags": ["Study"]
+  },
+  {
+    "name": "Draw From Same Reference Multiple Times, 5min Each",
+    "desc": "https://youtu.be/reAPHAsQolE",
+    "tags": ["Study"]
+  },
+  {
+    "name": "Go Through Some Book/Course Together",
+    "desc": "TODO",
+    "tags": ["Study"]
   }
 ]
