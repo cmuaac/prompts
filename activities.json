@@ -1,217 +1,222 @@
 [
   {
-    "name": "Keys to Drawing Project",
-    "desc": "TODO",
+    "name": "Keys to Drawing - Hand",
+    "desc": "Based on Project 1-B of Keys to Drawing by Bert Dodson. Make a drawing of your own hand, with the hand and fingers pointed towards your eyes. Use line only - a sharp pencil, pen and ink, ballpoint, pen, or felt-tip market (fine point).",
+    "tags": ["Observational", "Level0", "Week1"]
+  },
+  {
+    "name": "Keys to Drawing - Fruit",
+    "desc": "Based on Project 1-C of Keys to Drawing by Bert Dodson. Draw a fruit entirely from memory. Then, grab a real fruit (like from APB), place it in front of you, and draw it while closely observing it.",
     "tags": ["Observational", "Level0", "Week1"]
   },
   {
     "name": "Shoe/Bag Line Drawing",
-    "desc": "TODO",
+    "desc": "Based on Project 1-A of Keys to Drawing by Bert Dodson. Make a drawing of your own crossed feet, stressing accurate contour and detail. Use line only - a sharp pencil, pen and ink, ballpoint, pen, or felt-tip market (fine point).",
     "tags": ["Observational", "Level1", "Week1"]
   },
   {
     "name": "Still Life",
-    "desc": "TODO",
+    "desc": "The still life should be pretty minimal, like a chair or a pair of glasses and a book or something, don’t need to go all out and set up like 10 objects on a cloth",
     "tags": ["Observational", "Level2", "Week1"]
   },
   {
     "name": "Blind Contour",
-    "desc": "TODO",
+    "desc": "Pick a subject to draw. Draw the subject without looking at your paper.",
     "tags": ["Observational", "Level0", "Week2"]
   },
   {
     "name": "Upside-Down Picasso Stravinsky",
-    "desc": "TODO",
+    "desc": "Draw Picasso's portrait of Igor Stravinsky upside down. This exercise encourages people's visual thinking to take over, as people are not accustomed to seeing upside-down portraits.",
     "tags": ["Observational", "Level1", "Week2"]
   },
   {
     "name": "Hand Holding An Object",
-    "desc": "TODO",
+    "desc": "",
     "tags": ["Observational", "Level2", "Week2"]
   },
   {
     "name": "Negative Space Exercise",
-    "desc": "TODO",
+    "desc": "Pick a subject to draw, but draw the negative space around the object instead of the object itself.",
     "tags": ["Observational", "Level0", "Week3"]
   },
   {
     "name": "Negative Space + Perspective",
-    "desc": "TODO",
+    "desc": "Draw the negative space around the object, paying close attention to how the silhouette defines the perspective of the object.",
     "tags": ["Observational", "Level1", "Week3"]
   },
   {
     "name": "Copy A Master",
-    "desc": "TODO",
+    "desc": "Pick an art master, and copy their work. Think about what the master observed and noticed while creating the artwork.",
     "tags": ["Observational", "Level2", "Week3", "Study"]
   },
   {
     "name": "1-object Still Life",
-    "desc": "TODO",
+    "desc": "Grab an object and draw it with lines and shading.",
     "tags": ["Observational", "Level0", "Week4"]
   },
   {
     "name": "Self-Portrait",
-    "desc": "TODO",
+    "desc": "",
     "tags": ["Observational", "Level2", "Week4"]
   },
   {
     "name": "Proportion Copies",
-    "desc": "TODO",
+    "desc": "Grab a human proportion sheet (you can find them online) and copy it down, noting the relative sizes between body parts.",
     "tags": ["Figure Drawing", "Level0", "Week1"]
   },
   {
     "name": "Gesture Drawing",
-    "desc": "TODO",
+    "desc": "Can get gesture references from online (like DrawThis Youtube channel), CFA figure drawing sessions if they are available, or just some people in public.",
     "tags": ["Figure Drawing", "Level1", "Week1"]
   },
   {
     "name": "Croquis Drawing",
-    "desc": "TODO",
+    "desc": "Like gesture drawing, but with an emphasis on the silhouette of the figure.",
     "tags": ["Observational", "Figure Drawing", "Level1", "Week4", "Level2", "Week1"]
   },
   {
     "name": "Mannequins",
-    "desc": "TODO",
+    "desc": "",
     "tags": ["Figure Drawing", "Level0", "Week2"]
   },
   {
     "name": "Boxes of Head-Torso-Hips + Spine",
-    "desc": "TODO",
+    "desc": "Proko is good at explaining this: https://www.youtube.com/watch?v=yqxPHew5bGQ&t=510s&ab_channel=Proko",
     "tags": ["Figure Drawing", "Level1", "Week2"]
   },
   {
     "name": "Pick A Body Part To Study",
-    "desc": "TODO",
+    "desc": "",
     "tags": ["Figure Drawing", "Level2", "Week3", "Study"]
   },
   {
     "name": "3D Forms of Mannequins",
-    "desc": "TODO",
-    "tags": ["Figure Drawing", "Level0", "Week3"]
+    "desc": "Grab an art mannequin or 3D model and copy down its forms.",
+    "tags": ["Figure Drawing", "Perspective and Form", "Level0", "Week3"]
   },
   {
     "name": "Photo Trace/Copy",
-    "desc": "TODO",
+    "desc": "",
     "tags": ["Figure Drawing", "Level0", "Week4", "Level1", "Week3", "Study"]
   },
   {
     "name": "Draw Figure From Different Perspective Than Shown",
-    "desc": "TODO",
+    "desc": "",
     "tags": ["Figure Drawing", "Level2", "Week4"]
   },
   {
     "name": "Line Exercises",
-    "desc": "TODO",
+    "desc": "Exercise descriptions can be found at https://drawabox.com/lesson/1/4/homework.",
     "tags": ["Perspective and Form", "Level0", "Week1"]
   },
   {
     "name": "Organic Perspective Exercise",
-    "desc": "TODO",
+    "desc": "Exercise descriptions can be found at https://drawabox.com/lesson/1/organicperspective.",
     "tags": ["Perspective and Form", "Level1", "Week1"]
   },
   {
     "name": "Rotated Boxes Exercise",
-    "desc": "TODO",
+    "desc": "Exercise descriptions can be found at https://drawabox.com/lesson/1/rotatedboxes.",
     "tags": ["Perspective and Form", "Level2", "Week1"]
   },
   {
     "name": "Ellipse Exercises",
-    "desc": "TODO",
+    "desc": "Exercise descriptions can be found at https://drawabox.com/lesson/1/5/homework.",
     "tags": ["Perspective and Form", "Level0", "Week2"]
   },
   {
     "name": "2- and 3-Point Perspective",
-    "desc": "TODO",
+    "desc": "Exercise descriptions can be found at https://drawabox.com/lesson/1/6/homework.",
     "tags": ["Perspective and Form", "Level1", "Week2"]
   },
   {
     "name": "Divided and Rotating Planes in 2-Point Perspective",
-    "desc": "TODO",
+    "desc": "Exercise descriptions can be found at https://drawabox.com/lesson/1/ghostedplanes.",
     "tags": ["Perspective and Form", "Level2", "Week2"]
   },
   {
     "name": "1-Point Perspective: Vanishing Points and Horizon Lines",
-    "desc": "TODO",
+    "desc": "Exercise descriptions can be found at https://drawabox.com/lesson/1/roughperspective.",
     "tags": ["Perspective and Form", "Level0", "Week3"]
   },
   {
     "name": "Cylinders, Spheres, and Cones",
-    "desc": "TODO",
+    "desc": "Exercise descriptions can be found at https://drawabox.com/lesson/1/5/homework.",
     "tags": ["Perspective and Form", "Level1", "Week3"]
   },
   {
     "name": "Shape Rotations, Intersections, Dissections",
-    "desc": "TODO",
+    "desc": "Exercise descriptions can be found at https://drawabox.com/lesson/2/3/homework.",
     "tags": ["Perspective and Form", "Level2", "Week3"]
   },
   {
     "name": "2-Point Perspective, Rotation by Moving Vanishing Point",
-    "desc": "TODO",
+    "desc": "Exercise descriptions can be found at https://drawabox.com/lesson/1/plottedperspective.",
     "tags": ["Perspective and Form", "Level0", "Week4"]
   },
   {
     "name": "Draw A Car Or Something",
-    "desc": "TODO",
+    "desc": "Draw a car using construction. be aware of the perspective of the car and the box shape the car takes up.",
     "tags": ["Perspective and Form", "Level1", "Week4"]
   },
   {
     "name": "Robertson Perspective/Sculpting Techniques",
-    "desc": "TODO",
+    "desc": "Examples of these techniques can be found at https://www.thegnomonworkshop.com/tutorials/basic-perspective-form-drawing.",
     "tags": ["Perspective and Form", "Level2", "Week4"]
   },
   {
     "name": "Art Trade With Time Limit",
-    "desc": "TODO",
-    "tags": ["Chill"]
+    "desc": "",
+    "tags": ["Chill", "Group"]
   },
   {
     "name": "\"Art Telephone\" of Sketch -> Lineart -> Colors -> Render Passes",
-    "desc": "TODO",
-    "tags": ["Chill"]
+    "desc": "",
+    "tags": ["Chill", "Group"]
   },
   {
     "name": "Copy Each Others' Styles",
-    "desc": "TODO",
-    "tags": ["Chill"]
+    "desc": "",
+    "tags": ["Chill", "Group"]
   },
   {
     "name": "Screenshot Redraw",
-    "desc": "TODO",
+    "desc": "",
     "tags": ["Chill"]
   },
   {
     "name": "Draw The Same Character From Memory",
-    "desc": "TODO",
+    "desc": "",
     "tags": ["Chill"]
   },
   {
     "name": "Draw Something From A Shindanmaker",
-    "desc": "TODO",
+    "desc": "Shidanmaker link: https://en.shindanmaker.com/",
     "tags": ["Chill"]
   },
   {
     "name": "Draw Something From A Random Picrew",
-    "desc": "TODO",
+    "desc": "Picrew link: https://picrew.me/",
     "tags": ["Chill"]
   },
   {
     "name": "Compositional Values Study",
-    "desc": "TODO",
+    "desc": "Take a drawing or photograph and break down its values. Notice how the values contribute to the overall composition of the piece.",
     "tags": ["Study"]
   },
   {
     "name": "Same Scene At Different Times Of Day",
-    "desc": "TODO",
+    "desc": "",
     "tags": ["Study"]
   },
   {
     "name": "Draw From Same Reference Multiple Times, 5min Each",
-    "desc": "https://youtu.be/reAPHAsQolE",
+    "desc": "Exercise description can be found at https://youtu.be/reAPHAsQolE",
     "tags": ["Study"]
   },
   {
     "name": "Go Through Some Book/Course Together",
-    "desc": "TODO",
+    "desc": "",
     "tags": ["Study"]
   }
 ]
