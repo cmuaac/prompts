@@ -5,7 +5,7 @@
 
   let art_tags = ['Figure Drawing', 'Portraits', 'Observational'];
   let levels_tags = ['Level0', 'Level1', 'Level2'];
-  let misc_tags = ['Individual', 'Group'];
+  let misc_tags = ['Chill', 'Group'];
   export let selected = [];
 
   let visible = true;
